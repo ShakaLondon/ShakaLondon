@@ -1,8 +1,8 @@
 ### Hello My Name is Shakira ✋🏽 
 
-##### I would love to become a software engineer. 
+##### I am a Junior software engineer. 
 
-##### Multi-talented designer currently completing my bachelors degree in Architecture. After taking a career break, following the death of my father, Im using my technical experience to start my career as a software engineer. 
+##### Multi-talented designer with a degree in Architecture. Im continuously developing using my technical experience to further my career as a software engineer. 
 
 
 
